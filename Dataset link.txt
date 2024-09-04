@@ -1,0 +1,5 @@
+http://claws.cc.gatech.edu/  (from Anti-Asian paper)
+
+https://github.com/Mainack/whisper-2014-2016-data-HT-2020  (Analyzing the Targets of Hate in Online Social Media: Anonymous post data collected from Whisper: This dataset contains 89,877,121 anonymously written posts posted between 2014 and 2016. To know more about our methodology please check our HyperText 2020 publication.)
+
+https://github.com/Mainack/hatespeech-data-HT-2017/tree/master (same as above but has data of both Whisper and Twitter between 2014 and 2015)
